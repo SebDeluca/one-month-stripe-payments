@@ -21,6 +21,8 @@ gem 'coffee-rails', '~> 4.0.0'
 # gem 'therubyracer',  platforms: :ruby
 # stripe gem
 gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
+
+gem 'figaro'
 # bootstrap
 gem 'bootstrap-sass'
 # Use jquery as the JavaScript library
